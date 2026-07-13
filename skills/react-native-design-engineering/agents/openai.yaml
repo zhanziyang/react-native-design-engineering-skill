@@ -1,12 +1,6 @@
 interface:
-  display_name: React Native Design Engineering
-  short_description: Polish native motion and interactions
-  default_prompt: Use $react-native-design-engineering to design or review this Expo
-    interaction.
+  display_name: "React Native Design Engineering"
+  short_description: "Design and build native interactions"
+  default_prompt: "Use $react-native-design-engineering to design and implement this Expo or React Native interaction."
 policy:
-  products:
-  - chatgpt
-  - codex
-  - api
-  - atlas
   allow_implicit_invocation: true
